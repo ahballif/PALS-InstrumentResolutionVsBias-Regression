@@ -1,2 +1,4 @@
 # PALS-InstrumentResolutionVsBias-Regression
-Investigating the Relationship between High Voltage Bias Settings on Instrument Resolution of a Positron Lifetime Spectrometer
+This is a Github pages website that hosts the digital version of a report I wrote for positron annihilation spectroscopy. The digital report can be accessed here:
+https://ahballif.github.io/PALS-InstrumentResolutionVsBias-Regression/
+
